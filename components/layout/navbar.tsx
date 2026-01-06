@@ -17,7 +17,7 @@ export function Navbar() {
               {/* <span className="text-white font-bold text-lg">P</span> */}
               <img src="/logo.png" alt="logo" />
             </div>
-            <span className="font-bold text-lg text-foreground">LumiSoft Store</span>
+            <span className="font-bold text-lg text-foreground">LumiSoft Storess</span>
           </Link>
 
           {/* Desktop Menu */}
